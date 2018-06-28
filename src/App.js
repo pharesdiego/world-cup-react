@@ -13,7 +13,7 @@ class App extends Component {
   render() {
     return (
       <Layout>
-        <CardsContainer isLoading={ false }/>
+        <CardsContainer />
       </Layout>
     );
   }
