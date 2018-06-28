@@ -6,7 +6,7 @@ const Body = styled.div`
   min-height: 100%;
   background-color: #f1f1f1;
   display: flex;
-  align-items: center;
+  justify-content: center;
 `
 const Container = styled.div`
   width: 100%;
