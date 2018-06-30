@@ -7,6 +7,7 @@ const Body = styled.div`
   background-color: #f1f1f1;
   display: flex;
   justify-content: center;
+  align-items: center;
 `
 const Container = styled.div`
   width: 100%;
